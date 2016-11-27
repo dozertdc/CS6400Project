@@ -1,0 +1,2 @@
+//file that contains sql logic for ERMS project..
+erms/app/dbfunctions.php
